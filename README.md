@@ -27,5 +27,5 @@ IMDB Movie Reviews Dataset
 - Accuracy: 83.33%
 - F1 Score: 0.84
 
-## 👨‍💻 Author
-Your Name Gourav Chouhan
+## 👨‍💻 Author Gourav Chouhan
+
